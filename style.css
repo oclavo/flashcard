@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(226, 235, 236);
+    background:url( 'bg-desktop.webp' ) 
     }
     #container {
     display: flex;
@@ -18,7 +18,7 @@ body{
     }
     
     .cartao__conteudo h3 {
-    background-color: tomato;
+    background-color: rgb(244, 244, 244);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -46,8 +46,4 @@ body{
     font-size: 0.6rem;
     margin-top: 0.5rem;
     }
-:root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
-}
+
