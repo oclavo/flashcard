@@ -1,5 +1,6 @@
-body{
-    background:url( 'bg-desktop.webp' ) 
+:root{
+}
+   body{ background:url( 'img/bg-desktop.webp' ) 
     }
     #container {
     display: flex;
